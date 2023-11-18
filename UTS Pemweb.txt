@@ -2,7 +2,7 @@
 (jelaskan dengan bahasa yang mudah dimengerti, bukan secara 
 harfiah/istilah)
 
- Jawab: Framewok menurut yang menurut saya tau adalah sebagai struktur kerangka dasar pada aplikasi yang di sediakan di internet agar membuat kita lebih mudah mengerjakann suatu project, contoh nya ada framework css (bootstrap), framework javascript (reactjs), dan ada juga framework php (laravel).
+ Jawab: Framewok menurut yang saya tau adalah sebagai struktur kerangka dasar pada aplikasi yang di sediakan di internet agar membuat kita lebih mudah mengerjakann suatu project, contoh nya ada framework css (bootstrap), framework javascript (reactjs), dan ada juga framework php (laravel).
 
 
 2. Soal No 2	
