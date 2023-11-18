@@ -16,7 +16,7 @@ harfiah/istilah)
  Jawab: 1. Tema yang sedang digarap adalah tema SMA/SMK, disini saya ingin membuat sistem perpustakaan berbasis web agar murid dan pengawas perpustakaan di SMA/SMK tersebut lebih mudah dalam mengakses nya.
         2. Anggota nya itu ada saya sendiri Muhammad Hafiiz Al-Haq, disini jobdesk saya sebagai pembuat halaman dashboard SMA/SMK dan beberapa fitur tambahan, disini saya juga yang merancang struktur database pada sistem perpustakaan nya.
            Selanjutnya ada Muhammad Riza Dwi Prasetia, disini dia yang membuat rancangan fitur" yang ada di dalam sistem perpustakaan nya
-           Dan yang terakhir ada Rangga Egha Permana, disini dia sebagai yang mengatur UI/UX pada sistem aplikasi perpustakaan nya.
+           Dan yang terakhir ada Rangga Egha Permana, disini dia sebagai yang mengatur UI/UX pada sistem aplikasi nya.
         3. Jadi setelah tim kami melakukan wawancara pada SMA/SMK tersebut ada beberapa masalah yang bisa kita ambil sebagai scope project, dan disini tim saya memilih untuk mengambil tema sistem perpustakaan.
            Mengapa kita mengambil tema perpustakaan? Karena kita ingin memberi solusi pada SMA/SMK tersebut agar sistem perpustakaan nya lebih terstruktur, karena sebelumnya dari tim perpustakaan SMA/SMK ini mengeluhkan permasalahan pada struktur yang kurang rapih.
            sebagai contoh: Buku yang sering hilang dan tidak dikembalikan oleh siswa/i pada SMA/SMK tersebut, dan buku catatan peminjaman perpustakaan itu sendiri masih menggunakan buku yang dimana buku catatan itu sering tergeletak begitu saja.
